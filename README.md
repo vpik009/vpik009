@@ -2,7 +2,7 @@
 ### Hello there, I'm Vlad  <img src="./wave-hello.gif" alt="Hello GIF" width="20" height="20">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=plastic" alt="vpik009" /> </p>
+<p align="center" height="220px" width="100px"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" /> </p>
 
 
 
@@ -39,7 +39,7 @@
 
 - 📚 I’m currently a third year student software engineering student at Monash University.
 - 🌱 I am interested in web development and UI/UX.
-- 📫 How to reach me: [Linkedin - Vladislav Pikulin](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)   [![Linkedin: Vladislav Pikulin](https://img.shields.io/badge/-vpik009-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-pikulin-77335821a/)](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)[![GitHub vpik009](https://img.shields.io/github/followers/vpik009?label=follow&style=social)](https://github.com/vpik009)
+- 📫 How to reach me: [Linkedin - Vladislav Pikulin](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
 
 
 
