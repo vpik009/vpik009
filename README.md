@@ -47,10 +47,10 @@
 ##  📈 Github Stats:
 <br />
 <a href="https://github.com/vpik009">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpik009&theme=dark&hide_langs_below=1" />
+  <img align="center"  height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpik009&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/vpik009">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vpik009&show_icons=true&theme=dark&line_height=27" alt="Vlad's github stats"/>
+ <img align="center" height="300" src="https://github-readme-stats.vercel.app/api?username=vpik009&show_icons=true&theme=dark&line_height=27" alt="Vlad's github stats"/>
 </a>
 
 <div align="center">
