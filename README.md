@@ -1,8 +1,8 @@
 
-### Hello there, I'm Vlad  <img src="./wave-hello.gif" alt="Hello GIF" width="20" height="20">
+## Hello there, I'm Vlad  <img src="./wave-hello.gif" alt="Hello GIF" width="20" height="20">
 
 
-<p align="left" height="220px" width="100px"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" /> </p>
+<p align="left" height="220" width="100"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" /> </p>
 
 
 
@@ -21,8 +21,8 @@
 <br/>
 <br/>
 
-**Languages and Tools:**  
-
+🧰⚙️*Languages and Tools:* 
+---
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
