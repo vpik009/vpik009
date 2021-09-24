@@ -1,6 +1,6 @@
 
 ## Hello there, I'm Vlad  <img src="./wave-hello.gif" alt="Hello GIF" width="20" height="20">
-
+<br />
 
 <p align="left" height="220" width="100"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" /> </p>
 
@@ -8,7 +8,7 @@
 
 <br />
 
-
+### Connect with me
 <a href="https://www.linkedin.com/in/vladislav-pikulin-77335821a/">
   <img align="left" alt="Vlad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,8 +21,9 @@
 <br/>
 <br/>
 
-🧰⚙️*Languages and Tools:* 
----
+## 🧰⚙️ Languages and Tools:
+<br />
+
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -48,7 +49,8 @@
 
 
 ---
-##  📈 Github Stats
+##  📈 Github Stats:
+<br />
 <a href="https://github.com/vpik009">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpik009&theme=dark&hide_langs_below=1" />
 </a>
