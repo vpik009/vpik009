@@ -1,5 +1,5 @@
 
-## Hello there, I'm Vlad  <img src="./wave-hello.gif" alt="Hello GIF" width="20" height="20">
+## Hello there, I'm Vlad  <img src="./wave-hello.gif" alt="Hello GIF" width="35" height="35">
 <br />
 
 <p align="left" height="220" width="100"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" /> </p>
@@ -10,10 +10,10 @@
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/vladislav-pikulin-77335821a/">
-  <img align="left" alt="Vlad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Vlad's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/vpik009">
-  <img align="left" alt="Vlad's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Vlad's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 
