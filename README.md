@@ -40,7 +40,7 @@
 
 
 
-[![Linkedin: Vladislav Pikulin](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-pikulin-77335821a/)](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
+[![Linkedin: Vladislav Pikulin](https://img.shields.io/badge/-vpik009-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-pikulin-77335821a/)](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
 [![GitHub vpik009](https://img.shields.io/github/followers/vpik009?label=follow&style=social)](https://github.com/vpik009)
 
 
