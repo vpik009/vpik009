@@ -36,17 +36,19 @@
 <br />
 <br />
 
----
 
+## ❔ More about me:
 - 📚 I’m currently a third year student software engineering student at Monash University.
 - 🌱 I am interested in web development and UI/UX.
 - 📫 How to reach me: [Linkedin - Vladislav Pikulin](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
 
-
+<br />
 
 [![Linkedin: Vladislav Pikulin](https://img.shields.io/badge/-vpik009-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-pikulin-77335821a/)](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
 [![GitHub vpik009](https://img.shields.io/github/followers/vpik009?label=follow&style=social)](https://github.com/vpik009)
 
+<br />
+<br />
 
 ---
 ##  📈 Github Stats:
