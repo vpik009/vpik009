@@ -1,7 +1,13 @@
 
 ### Hello there, I'm Vlad 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=plastic" alt="vpik009" /> </p>
+
+
+<img src="./giphy.gif" alt="Hello GIF" width="250" height="200">
+
+<br />
 
 
 <a href="https://www.linkedin.com/in/vladislav-pikulin-77335821a/">
