@@ -2,7 +2,7 @@
 ### Hello there, I'm Vlad  <img src="./wave-hello.gif" alt="Hello GIF" width="20" height="20">
 
 
-<p align="center" height="220px" width="100px"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" /> </p>
+<p align="left" height="220px" width="100px"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" /> </p>
 
 
 
