@@ -15,8 +15,8 @@
 
 
 
-<br/>
-<br/>
+<br />
+<br />
 
 ## 🧰⚙️ Languages and Tools:
 <br />
@@ -32,6 +32,7 @@
 - 🌱 I am interested in web development and UI/UX.
 - 📫 How to reach me: [Linkedin - Vladislav Pikulin](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
 
+<br />
 <br />
 
 [![Linkedin: Vladislav Pikulin](https://img.shields.io/badge/-vpik009-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-pikulin-77335821a/)](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
