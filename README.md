@@ -5,9 +5,6 @@
 <p align="left" height="220" width="100"> <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" /> </p>
 
 
-
-<br />
-
 ### Connect with me
 <a href="https://www.linkedin.com/in/vladislav-pikulin-77335821a/">
   <img align="left" alt="Vlad's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
