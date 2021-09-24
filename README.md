@@ -22,7 +22,6 @@
 <br />
 <div>
   <code style="margin=5px;" id="html"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <label for="html">HTML</label>
   <code style="margin=5px;" id="java"><img height="50" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
   <code style="margin=5px;" id="css"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code style="margin=5px;"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
