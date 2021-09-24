@@ -33,7 +33,7 @@
 
 ---
 
-- 📚 I’m currently a third year student at Monash University.
+- 📚 I’m currently a third year student software engineering student at Monash University.
 - 🌱 I am interested in web development and UI/UX.
 - 📫 How to reach me: [Linkedin - Vladislav Pikulin](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
 
