@@ -22,8 +22,8 @@
 <br />
 <div>
   <code style="margin=5px;" id="html"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
- <code style="margin=5px;" id="java"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code style="margin=5px;" id="css"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+ <code style="margin=5px;" id="java"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code style="margin=5px;"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code style="margin=5px;"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
   <code style="margin=5px;"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -37,7 +37,7 @@
 
 
 ## ❓ More About Me:
-- 📚 I’m currently a third year software engineering student at Monash University 🎓.
+- 📚 I’m currently a fourth year software engineering student at Monash University 🎓.
 - 🌱 I am interested in web development and UI/UX.
 - 📫 How to reach me: [Linkedin - Vladislav Pikulin](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
 
