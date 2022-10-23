@@ -10,7 +10,7 @@
   <img align="left" alt="Vlad's Linkdein" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="mailto:vpik0001@mailfence.com/">
-  <img align="left" alt="Vlad's Email" width="35px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/256/Communication-email-blue-icon.png" />
+  <img align="left" alt="Vlad's Email" width="35px" src="https://cdn.pixabay.com/photo/2014/04/03/10/02/email-309678_960_720.png" />
 </a>
 
 
