@@ -9,10 +9,7 @@
 <a href="https://www.linkedin.com/in/vladislav-pikulin-77335821a/">
   <img align="left" alt="Vlad's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto: https://github.com/vpik009">
-  <img align="left" alt="Vlad's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="vpik0001@mailfence.com/">
+<a href="mailto:vpik0001@mailfence.com/">
   <img align="left" alt="Vlad's Email" width="35px" src="https://cdn-icons-png.flaticon.com/512/2165/2165310.png" />
 </a>
 
