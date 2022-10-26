@@ -14,6 +14,12 @@
 </a>
 
 
+<br />
+<br />
+
+### 💼 Portfolio
+<a href="https://vpik009.github.io/portfolio/" target="_blank"><img src="./portfolio.gif" alt="Portfolio GIF" width="400" height="253"></a>
+
 
 <br />
 <br />
