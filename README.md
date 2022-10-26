@@ -18,7 +18,7 @@
 <br />
 
 ### 💼 Portfolio Site
-<div style="display:inline-block;"><h4 style="display:inline-block;">Link: </h4><a href="https://vpik009.github.io/portfolio/" target="_blank" style="display:inline-block;"><h4>vpik009.github.io/portfolio/</h4></a></div>
+<div style="display:inline-block;"><h4 style="display:inline-block;">Link: </h4><a href="https://vpik009.github.io/portfolio/" style="display:inline-block;"><h4>vpik009.github.io/portfolio/</h4></a></div>
 
 
 <br />
