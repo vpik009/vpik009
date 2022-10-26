@@ -17,8 +17,11 @@
 <br />
 <br />
 
-### 💼 Portfolio
-<a href="https://vpik009.github.io/portfolio/" target="_blank"><img src="./portfolio.gif" alt="Portfolio GIF" width="400" height="253"></a>
+### 💼 Portfolio Site
+<div style="width:100%; margin: 0 auto;
+        padding-left: 25%;">
+<a href="https://vpik009.github.io/portfolio/" target="_blank"><img src="./portfolio.gif" alt="Portfolio GIF" width="400" height="253" style="border: 5px solid #555;"></a>
+</div>
 
 
 <br />
