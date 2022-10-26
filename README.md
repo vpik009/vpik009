@@ -18,7 +18,7 @@
 <br />
 
 ### 💼 Portfolio Site
-<a href="https://vpik009.github.io/portfolio/" style="display:inline-block;">
+<a href="https://vpik009.github.io/portfolio/" style="display:inline-block; font-size:20px;">
   vpik009.github.io/portfolio/
 </a>
 
