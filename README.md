@@ -72,8 +72,6 @@
 <br />
 <br />
 
-### Show some ❤️ by starring some of my repositories!
-
 </div>
 
 ---
