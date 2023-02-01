@@ -46,7 +46,7 @@
 
 
 ## ❓ More About Me:
-- 📚 I’m currently a fourth year software engineering student at Monash University 🎓.
+- 🎓 I’m currently a fourth year software engineering student at Monash University.
 - 🌱 I am interested in web development and UI/UX.
 
 <br />
