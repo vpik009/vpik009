@@ -50,7 +50,6 @@ A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CC3534?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
