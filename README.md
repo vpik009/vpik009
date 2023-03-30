@@ -63,7 +63,7 @@ A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628
 <p>
   <a href="https://github.com/vpik009" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vladislav-pikulin-77335821a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vpik0001@mailfence.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/vpik0001@mailfence.com-DB4437.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="mailto: vpik0001@mailfence.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/vpik0001@mailfence.com-DB4437.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
 
 </p>
