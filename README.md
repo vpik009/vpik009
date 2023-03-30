@@ -2,18 +2,6 @@
 ## Hello there, I'm Влад (Vlad)  <img src="./wave-hello.gif" alt="Hello GIF" width="35" height="35">
 <br />
 
-<table class="center">
-  <thead align="center">
-    <tr border: none;>
-      <td><b>👀 Views</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" /></td>
-    </tr>
-  </tbody>
-</table>
 
 
 <p align="center">
@@ -26,24 +14,15 @@ A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=vpik009&show_icons=true&theme=buefy&line_height=27" alt="Vlad's github stats"/>
 </p>
 
+<br>
 
+### Portfolio Site
 
-### Connect with me
-<a href="https://www.linkedin.com/in/vladislav-pikulin-77335821a/">
-  <img align="left" alt="Vlad's Linkdein" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="mailto:vpik0001@mailfence.com/">
-  <img align="left" alt="Vlad's Email" width="35px" src="https://www.pngplay.com/wp-content/uploads/6/Red-Email-PNG-Clipart-Background.png" />
-</a>
-
-
-<br />
-<br />
-
-### 💼 Portfolio Site
-<a href="https://vpik009.github.io/portfolio/" style="display:inline-block; font-size:20px;">
-  vpik009.github.io/portfolio/
-</a>
+<p align="center">
+  <a href="https://vpik009.github.io/portfolio/">
+    <img src="./portfolio.gif" alt="Hello GIF" width="50%" height="75%">
+  </a>
+</p>
 
 
 
@@ -61,7 +40,6 @@ A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
-   <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-42b883?style=for-the-badge&logo=pyspark&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -81,16 +59,19 @@ A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628
 <br />
 <br />
 
+## Contact me
+<p>
+  <a href="https://github.com/vpik009" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vladislav-pikulin-77335821a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vpik0001@mailfence.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/vpik0001@mailfence.com-DB4437.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
-## ❓ More About Me:
-- 🎓 I’m currently a fourth year software engineering student at Monash University.
-- 🌱 I am interested in web development and UI/UX.
 
-<br />
-<br />
+</p>
 
-[![Linkedin: Vladislav Pikulin](https://img.shields.io/badge/-vpik009-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislav-pikulin-77335821a/)](https://www.linkedin.com/in/vladislav-pikulin-77335821a/)
-[![GitHub vpik009](https://img.shields.io/github/followers/vpik009?label=follow&style=social)](https://github.com/vpik009)
+------------
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vpik009&label=Views&color=blue&style=flat" alt="vpik009" />
+</p>
 
 <br />
 <br />
