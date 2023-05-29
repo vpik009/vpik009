@@ -10,8 +10,8 @@ A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628
   </samp>
   <br/>
   <br/>
-  <img align="center"  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpik009&theme=buefy&hide_langs_below=1" />
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=vpik009&show_icons=true&theme=buefy&line_height=27" alt="Vlad's github stats"/>
+  <img align="center"  height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vpik009&theme=buefy&hide_langs_below=1" />
+  <img align="center" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vpik009&show_icons=true&theme=buefy&line_height=27" alt="Vlad's github stats"/>
 </p>
 
 <br>
