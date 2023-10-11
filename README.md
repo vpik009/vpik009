@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="15"/> <b>Vladivostok, Russia</b>. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197581.png" width="15"/> <b>Kuala Lumpur, Malaysia</b>.
+A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="15"/> <b>Vladivostok, Russia</b>. Currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15"/> <b>Freiburg im Breisgau, Germany</b>.
   </samp>
   <br/>
   <br/>
