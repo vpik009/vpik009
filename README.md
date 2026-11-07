@@ -19,9 +19,11 @@ A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628
 ### Portfolio Site
 
 <p align="center">
-  <a href="https://vpik009.github.io/portfolio/">
-    <img src="./portfolio.gif" alt="Hello GIF" width="50%" height="75%">
+  <a href="https://vpik009.github.io/portfolio_new/">
+    <img src="./portfolio.png" alt="Vladislav Pikulin portfolio site" width="75%">
   </a>
+  <br/>
+  <a href="https://vpik009.github.io/portfolio_new/"><b>vpik009.github.io/portfolio_new</b></a>
 </p>
 
 
