@@ -10,8 +10,8 @@ A Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/4628
   </samp>
   <br/>
   <br/>
-  <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vpik009&theme=gotham" alt="Vlad's top languages" />
-  <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vpik009&theme=gotham" alt="Vlad's github stats"/>
+  <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vpik009&theme=rose_pine" alt="Vlad's top languages" />
+  <img align="center" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vpik009&theme=rose_pine" alt="Vlad's github stats"/>
 </p>
 
 <br>
