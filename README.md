@@ -26,7 +26,7 @@ From <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="1
 ### Portfolio Site
 
 <p align="center">
-  <a href="[https://vpik009.github.io/portfolio_2026/](https://vpik009.github.io/)">
+  <a href="vpik009.github.io">
     <img src="./gif.gif" alt="Vladislav Pikulin portfolio site" width="75%">
   </a>
 </p>
